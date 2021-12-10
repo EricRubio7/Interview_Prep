@@ -37,15 +37,3 @@ class Solution:
 
 #Lessons:
 #1 Using the right data structure can make the algorithm we write much simpler
- 
-
-        
-        
-        
-        
-        
-        
-  
-        
-        
-  
